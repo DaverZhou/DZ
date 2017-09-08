@@ -1,0 +1,10 @@
+{ count = 2, transaction: 0, voucher = 0x0, contents =
+"Dictionary" => <dictionary: 0x60000015a620> { count = 1, transaction: 0, voucher = 0x0, contents =
+"ServerURL" => <dictionary: 0x60000015a2b0> { count = 3, transaction: 0, voucher = 0x0, contents =
+"com.apple.CFURL.magic" => <uuid: 0x6000000573d0> C3853DCC-9776-4114-B6C1-FD9F51944A6D
+"com.apple.CFURL.string" => <string: 0x6000000577c0> { length = 30, contents = "https://mesu.apple.com/assets/" }
+"com.apple.CFURL.base" => <null: 0x1096a1f40>: null-object
+}
+}
+"Result" => <int64: 0x600000432f20>: 0
+}
